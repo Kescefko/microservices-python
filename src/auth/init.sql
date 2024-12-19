@@ -15,7 +15,7 @@ CREATE TABLE user (
 INSERT INTO user (email, password) VALUES ('georgio@email.com', 'Admin123');
 
   
-
+/* TODO flush local mysql config to this */
 
 
 
